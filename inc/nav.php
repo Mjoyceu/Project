@@ -13,7 +13,8 @@
           <a class="nav-link" href="life.html">LIFE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="talk.html">TALK TO US</a>
+          <a class="nav-link" href="index
+          .html">TALK TO US</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="logout.php">LOG OUT</a>

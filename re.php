@@ -63,7 +63,7 @@ $id =$_GET['pid'];
           <a class="nav-link" href="life.html">LIFE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="talk.html">TALK TO US</a>
+          <a class="nav-link" href="index.html">TALK TO US</a>
         </li>
     </ul>
     <section class="">
@@ -96,7 +96,7 @@ $id =$_GET['pid'];
                 <button> <a class="nav-link " id="on" href="index.php">HOME</a></button>
                 <button> <a class="nav-link " id="it" href="real.php">REALNESS</a></button>
                 <button> <a class="nav-link " id="of" href="life.html">LIFE</a></button>
-                <button> <a class="nav-link " id="or" href="talk.html">TALK TO US</a></button>
+                <button> <a class="nav-link " id="or" href="index.html">TALK TO US</a></button>
               </div>
 
             </div>
