@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0px;
+    overflow-x: hidden;
+}
+#top{
+    background: rgb(184, 146, 146);
+}
+
+ul{
+    height: 60px;
+    background: rgb(78, 72, 72);
+
+}
+ li a{
+    color:  rgb(253, 214, 221);
+    font-family: 'Indie flower' cursive;
+    letter-spacing: 2px;
+}
+li a:hover{
+    border-bottom: 1px solid black;
+    transition: 2s;
+    color: rgb(255, 211, 219);
+    cursor: grab;
+}
+header{
+    font-family: 'Waterfall', cursive;
+    font-weight: 500;
+    font-size: 70px;
+    color: rgb(78, 72, 72);
+}
+#first{
+    border: 3px solid rgb(255, 214, 220);
+    margin-bottom: 5px;
+}
+#bg{
+    background: rgb(255, 255, 255);
+    border: transparent;
+}
+#bg:hover{
+    background: rgb(255, 230, 234);
+    transition: 3s;
+    border: white;
+}
+h5{
+    font-family:'Bree Serif', cursive;
+
+}
+#font{
+    color: rgb(70, 64, 64);
+    font-family: 'Bree Serif' cursive;
+}
+#pro{
+    background: rgb(255, 236, 239);
+}
+
+h4{
+    color: rgb(46, 15, 15);
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+footer{
+    background: rgb(255, 236, 239);
+}
+#path{
+    border: 2px solid black;
+}
+#path:hover{
+    clip-path: circle();
+}
+.button{
+    background: rgb(253, 214, 221);
+    border-radius: 30px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border: rgb(182, 182, 238);
+}
+.button:hover{
+    background: rgb(160, 131, 131);
+}
+marquee{
+    background: rgb(99, 87, 87);
+    font-family: 'Marck+Script' cursive;
+}
+.big{
+    color:  rgb(253, 214, 221);
+}
+#left{
+    display: flex;
+    justify-content: space-around;
+}
+.bookmark{
+    margin: 0 auto;
+    float: right;
+    padding: 5px;
+    border: transparent;
+}
+button{
+    border-radius: 25px;
+    border: transparent;
+}
+#on{
+    background: rgb(250, 196, 250);
+    border: transparent;
+    color: black;
+    letter-spacing: 1px;
+
+}
+#it{
+    background: rgb(252, 201, 239);
+    border: transparent;
+    color: black;
+    letter-spacing: 1px;
+
+}
+#of{
+    background: rgb(255, 209, 240);
+    border: transparent;
+    color: black;
+    letter-spacing: 1px;
+
+}
+#or{
+    background: rgb(255, 212, 238);
+    border: transparent;
+    color: black;
+    letter-spacing: 1px;
+}
+#if{
+    background: rgb(255, 217, 255);
+    border: transparent;
+    color: black;
+    letter-spacing: 1px;
+
+}
+#cont{
+    width: 250px;
+    height: 500px;
+    border: 1px solid rgb(255, 212, 238);
+}
+#comes{
+    color: rgb(46, 15, 15);
+    font-family: 'Indie+Flower', cursive;
+}
+#image{
+    border: 1px solid rgb(255, 230, 234);
+}
